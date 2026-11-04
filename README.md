@@ -6,7 +6,7 @@
 <h3 align="center">AI Engineer / Msc in Computer Engineer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TUO_USERNAME" alt="TUO_USERNAME"/>
+  <img src="https://komarev.com/ghpvc/?username=francescodellavalle" alt="francescodellavalle"/>
 </p>
 
 - 👨‍💻 All my projects are available at [Repositories](https://github.com/francescodellavalle?tab=repositories)
