@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="50"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Francesco Della Valle</h1>
@@ -72,11 +72,4 @@
   <img src="https://img.shields.io/badge/-Object%20Detection-4B8BBE" alt="Object Detection"/>
   <img src="https://img.shields.io/badge/-YOLO-00B8D4" alt="YOLO"/>
   <img src="https://img.shields.io/badge/-Mask%20R--CNN-4B8BBE" alt="Mask R-CNN"/>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TUO_USERNAME&show_icons=true&locale=it&layout=compact" alt="TUO_USERNAME"/>
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&locale=it" alt="TUO_USERNAME"/>
 </p>
