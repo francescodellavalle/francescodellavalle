@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/SLBr5yLzocSYw/giphy.gif" width="300"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Francesco Della Valle</h1>
